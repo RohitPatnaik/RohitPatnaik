@@ -1,6 +1,11 @@
 <!-- Header -->
+<!-- Header -->
 <h1 align="center">Hi, I'm Rohit Patnaik</h1>
 <h3 align="center">🚀 Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
+
+<p align="center">
+  📞 +91-8895-291-619  
+</p>
 
 <p align="center">
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpatnaik27%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -115,7 +120,8 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 ## Connect with Me  
 
 <p align="center">
+  📞 <strong>+91-8895-291-619</strong><br>
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/rohit-patnaik"><img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/></a>
+  <a href="https://github.com/rohit-patnaik"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 </p>
