@@ -1,27 +1,26 @@
 <!-- Header -->
-<!-- Header -->
-<h1 align="center">Hi, I'm Rohit Patnaik</h1>
+<h1 align="center">💻 Hi, I'm Rohit Patnaik</h1>
 <h3 align="center">🚀 Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
 
 <p align="center">
-  📞 +91-8895-291-619  
+  📞 <strong>+91-8895-291-619</strong>  
 </p>
 
 <p align="center">
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpatnaik27%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.shields.io/badge/LinkedIn-rohit--patnaik-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/rohit-patnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/rohit-patnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## About Me  
+## 🧑‍💻 About Me  
 
 I’m a **Senior Java & Angular Full-Stack Developer** with 10+ years of experience delivering scalable, high-performance applications in **logistics, healthcare, supply chain, and education**.  
 Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Boot, Angular, Microservices, AWS**, and **database optimization**, with a proven track record of leading teams and delivering impactful solutions.  
 
 <details>
-<summary>📜 Professional Summary (Click to expand)</summary>
+<summary>📜 <strong>Professional Summary</strong> (Click to expand)</summary>
 
 - **10+ years** of experience in software analysis, design, development, testing, and implementation of multi-tier web & mobile applications.  
 - Expertise in **Java (7–17)**, **Spring Boot**, **Spring MVC**, **Angular (2–16)**, **TypeScript**, **JavaScript**, **HTML5**, **CSS3**, **PostgreSQL**, **MySQL**, **MariaDB**, **SQL Server**, **MongoDB**.  
@@ -36,10 +35,9 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ---
 
-## Tech Stack (Badges)
+## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -50,7 +48,6 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 </p>
 
 <p align="center">
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -58,7 +55,6 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 </p>
 
 <p align="center">
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -67,7 +63,7 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ---
 
-## Rotating Tech Stack Icons  
+## 🔄 Rotating Tech Stack Icons  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,postgres,mysql,mongodb,aws,docker,kafka,rabbitmq&theme=light" alt="Tech Stack Icons" />
@@ -75,7 +71,7 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ---
 
-## Featured Projects  
+## 🚀 Featured Projects  
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -93,18 +89,18 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ---
 
-## Work Experience  
+## 💼 Work Experience  
 
 - **Senior Software Engineer | Team Lead** — Rodion Solutions Pvt. Ltd. *(Aug 2022 – Present)*  
 - **Senior Technical Analyst** — Siddha Development Research and Consultancy Pvt. Ltd. *(Jun 2014 – Jul 2022)*  
 
 ---
 
-## Education  
+## 🎓 Education  
 
-- 🎓 **MS in Data Science** — Liverpool John Moore’s University, UK *(Distinction, 2023)*  
-- 🎓 **PG Diploma in Data Science (Data Engineering)** — IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
-- 🎓 **B.Tech in Computer Science & Engineering** — Institute of Technical Education & Research, Bhubaneswar, India *(CGPA: 9.11/10, 2014)*  
+- **MS in Data Science** — Liverpool John Moore’s University, UK *(Distinction, 2023)*  
+- **PG Diploma in Data Science (Data Engineering)** — IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
+- **B.Tech in Computer Science & Engineering** — Institute of Technical Education & Research, Bhubaneswar *(CGPA: 9.11/10, 2014)*  
 
 ---
 
@@ -117,7 +113,7 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ---
 
-## Connect with Me  
+## 📬 Connect with Me  
 
 <p align="center">
   📞 <strong>+91-8895-291-619</strong><br>
