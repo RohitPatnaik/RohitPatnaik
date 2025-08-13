@@ -11,9 +11,23 @@
 ---
 
 ## About Me  
-💼 Senior Java & Angular Full-Stack Developer with **10+ years** of experience in logistics, healthcare, supply chain & education.  
-⚙️ Skilled in **microservices, cloud deployments (AWS)**, OCR & image processing, and leading high-performing teams.  
-📈 Passionate about building **scalable, impactful software** for global clients.  
+
+I’m a **Senior Java & Angular Full-Stack Developer** with 10+ years of experience delivering scalable, high-performance applications in **logistics, healthcare, supply chain, and education**.  
+Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Boot, Angular, Microservices, AWS**, and **database optimization**, with a proven track record of leading teams and delivering impactful solutions.  
+
+<details>
+<summary>📜 Professional Summary (Click to expand)</summary>
+
+- **10+ years** of experience in software analysis, design, development, testing, and implementation of multi-tier web & mobile applications.  
+- Expertise in **Java (7–17)**, **Spring Boot**, **Spring MVC**, **Angular (2–16)**, **TypeScript**, **JavaScript**, **HTML5**, **CSS3**, **PostgreSQL**, **MySQL**, **MariaDB**, **SQL Server**, **MongoDB**.  
+- Designed and implemented **microservices-based architectures** with secure RESTful APIs and real-time dashboards.  
+- Hands-on experience with **AWS** (EC2, S3, IAM, Lambda, RDS, Auto Scaling) and **Docker** for containerized deployments.  
+- Developed OCR and image-processing solutions to automate workflows and improve performance.  
+- Skilled in **project planning, risk mitigation, and onsite-offshore coordination**.  
+- Strong leadership with experience mentoring teams, improving development processes, and ensuring timely delivery.  
+- Worked extensively with **Agile** methodologies and tools like **Jira** and **Asana** for project tracking.  
+
+</details>
 
 ---
 
