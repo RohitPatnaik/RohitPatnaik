@@ -1,0 +1,107 @@
+<!-- Header -->
+<h1 align="center">Hi, I'm Rohit Patnaik</h1>
+<h3 align="center">🚀 Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
+
+<p align="center">
+  <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpatnaik27%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.shields.io/badge/LinkedIn-rohit--patnaik-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/rohit-patnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## About Me  
+💼 Senior Java & Angular Full-Stack Developer with **10+ years** of experience in logistics, healthcare, supply chain & education.  
+⚙️ Skilled in **microservices, cloud deployments (AWS)**, OCR & image processing, and leading high-performing teams.  
+📈 Passionate about building **scalable, impactful software** for global clients.  
+
+---
+
+## Tech Stack (Badges)
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+</p>
+
+---
+
+## Rotating Tech Stack Icons  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,postgres,mysql,mongodb,aws,docker,kafka,rabbitmq&theme=light" alt="Tech Stack Icons" />
+</p>
+
+---
+
+## Featured Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚚 **Petroleum Dispatch Management System** | Optimized petroleum delivery with real-time tracking, OCR automation & multi-hub synchronization. | Java, Spring Boot, Angular, Python, MySQL, MariaDB, AWS |
+| ⚙️ **CPQ & PLM SaaS Platform** | Integrated CPQ & PLM with ERP/CRM systems like Salesforce & SAP, improving performance by ~30%. | Java, Spring Boot, Angular, Kafka, AWS |
+| 🏥 **Joint Effort for Elimination of Tuberculosis** | APIs & dashboards to standardize TB diagnosis & treatment nationwide. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 💊 **Drug Distribution Management System** | National supply chain for ARV drugs & HIV kits; improved delivery accuracy and reduced stockouts. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 👶 **Saving Lives Spreading Smiles** | Real-time monitoring for maternal & newborn health across national/provincial levels (PNG). | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 🌍 **Sustainable Development Goals** | Real-time dashboards/APIs tracking 200+ UN SDG indicators across 13 districts. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 🏥 **ADARSH** | RMNCH+A health monitoring (e-MITRA) with multi-source data integration & 200+ indicators. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 🍼 **Lactation QI** | Web & mobile apps for lactation support and quality indicators across hospitals (Singapore). | Java, Spring Boot, Angular, PostgreSQL, Ionic Cordova |
+| 🏫 **Prashikhyak** | TTI platform for HR, infrastructure & academic data; role-based access, attendance & reporting. | Java, Spring Boot, Hibernate, JPA, Angular, PostgreSQL, RabbitMQ, Ionic Capacitor |
+| 💉 **Vaccine Logistics Management System (VLMS)** | Streamlined vaccine purchasing, distribution & redistribution with real-time inventory control. | Java, Spring MVC, Hibernate, JPA, Angular, SQL Server, Ionic Cordova |
+| 🧊 **Effective Vaccine Management (EVM)** | Improved vaccine & cold chain management; dashboards with maps/charts for KPIs. | Java, Spring MVC, Hibernate, JPA, AngularJS, SQL Server, D3.js |
+
+---
+
+## Work Experience  
+
+- **Senior Software Engineer | Team Lead** — Rodion Solutions Pvt. Ltd. *(Aug 2022 – Present)*  
+- **Senior Technical Analyst** — Siddha Development Research and Consultancy Pvt. Ltd. *(Jun 2014 – Jul 2022)*  
+
+---
+
+## Education  
+
+- 🎓 **MS in Data Science** — Liverpool John Moore’s University, UK *(Distinction, 2023)*  
+- 🎓 **PG Diploma in Data Science (Data Engineering)** — IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
+- 🎓 **B.Tech in Computer Science & Engineering** — Institute of Technical Education & Research, Bhubaneswar, India *(CGPA: 9.11/10, 2014)*  
+
+---
+
+## 🏆 Achievements  
+
+- 🏅 Rising Star Award — FY 2024–25  
+- 🌟 Star Performer — FY 2015–16 & FY 2016–17  
+- 🥇 Winner — Appfest 2012 & Appathon 2013  
+- 🎯 Chief Coordinator — Microsoft India Appfest 2013 (350+ participants)  
+
+---
+
+## Connect with Me  
+
+<p align="center">
+  <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+  <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/rohit-patnaik"><img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/></a>
+</p>
