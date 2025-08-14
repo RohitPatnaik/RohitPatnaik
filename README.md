@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">💻 Hi, I'm Rohit Patnaik</h1>
-<h3 align="center">🚀 Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
+<h1 align="center"> Hi, I'm Rohit Patnaik</h1>
+<h3 align="center"> Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
 
 <p align="center">
   📞 <strong>+91-8895-291-619</strong>  
@@ -62,8 +62,6 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 </p>
 
 ---
-
-## 🔄 Rotating Tech Stack Icons  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,postgres,mysql,mongodb,aws,docker,kafka,rabbitmq&theme=light" alt="Tech Stack Icons" />
