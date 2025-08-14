@@ -3,13 +3,13 @@
 <h3 align="center"> Senior Software Engineer | Java & Angular Full Stack Developer | Team Lead</h3>
 
 <p align="center">
-  📞 <strong>+91-8895-291-619</strong>  
-</p>
-
-<p align="center">
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpatnaik27%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.shields.io/badge/LinkedIn-rohit--patnaik-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/RohitPatnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  📞 <strong>+91-8895-291-619</strong>  
 </p>
 
 ---
@@ -113,8 +113,8 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 ## 📬 Connect with Me  
 
 <p align="center">
-  📞 <strong>+91-8895-291-619</strong><br>
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/RohitPatnaik"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
+  <br> 📞 <strong>+91-8895-291-619</strong><br>
 </p>
