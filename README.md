@@ -95,9 +95,17 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ## 🎓 Education  
 
-- **MS in Data Science** - Liverpool John Moore’s University, UK *(Distinction, 2023)*  
-- **PG Diploma in Data Science (Data Engineering)** - IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
-- **B.Tech in Computer Science & Engineering** - Institute of Technical Education & Research, Bhubaneswar *(CGPA: 9.11/10, 2014)*  
+- **MS in Data Science** - *Liverpool John Moores University, UK* *(Distinction, 2023)*  
+  Advanced studies in machine learning, big data analytics, predictive modeling, and AI-driven solutions.  
+  **Dissertation:** [Cardiovascular Disease Risk Prediction](https://github.com/RohitPatnaik/CVD) — Developed a predictive model using 70,000 patient records. Performed data cleaning to remove outliers and unrealistic values, applied feature scaling, and split the dataset into training/testing sets. Trained and tuned **Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors** models using **Grid Search**, evaluating results via **confusion matrices**, **classification reports**, and **ROC–AUC curves**. 
+   
+- **PG Diploma in Data Science (Data Engineering)** - *Indian Institute of Information Technology, Bangalore, India* *(CGPA: 3.81/4, 2022)*  
+  Specialized in data pipeline design, ETL workflows, distributed computing (Spark, Hadoop), and cloud-based data solutions.  
+  Gained strong expertise in SQL/NoSQL database management, data warehousing, and analytics automation.  
+
+- **B.Tech in Computer Science & Engineering** - *Institute of Technical Education & Research, Bhubaneswar, India* *(CGPA: 9.11/10, 2014)*  
+  Solid foundation in algorithms, software development, and system architecture.  
+  Actively participated in coding competitions, technical fests, and developed multiple academic and real-world software projects.
 
 ---
 
