@@ -61,8 +61,6 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,postgres,mysql,mongodb,aws,docker,kafka,rabbitmq&theme=light" alt="Tech Stack Icons" />
 </p>
