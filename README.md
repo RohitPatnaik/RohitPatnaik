@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.shields.io/badge/Email-rohitpatnaik27%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.shields.io/badge/LinkedIn-rohit--patnaik-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/rohit-patnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/RohitPatnaik"><img src="https://img.shields.io/badge/GitHub-rohit--patnaik-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -91,25 +91,25 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 ## 💼 Work Experience  
 
-- **Senior Software Engineer | Team Lead** — Rodion Solutions Pvt. Ltd. *(Aug 2022 – Present)*  
-- **Senior Technical Analyst** — Siddha Development Research and Consultancy Pvt. Ltd. *(Jun 2014 – Jul 2022)*  
+- **Senior Software Engineer | Team Lead** - Rodion Solutions Pvt. Ltd. *(Aug 2022 - Present)*  
+- **Senior Technical Analyst** - Siddha Development Research and Consultancy Pvt. Ltd. *(Jun 2014 - Jul 2022)*  
 
 ---
 
 ## 🎓 Education  
 
-- **MS in Data Science** — Liverpool John Moore’s University, UK *(Distinction, 2023)*  
-- **PG Diploma in Data Science (Data Engineering)** — IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
-- **B.Tech in Computer Science & Engineering** — Institute of Technical Education & Research, Bhubaneswar *(CGPA: 9.11/10, 2014)*  
+- **MS in Data Science** - Liverpool John Moore’s University, UK *(Distinction, 2023)*  
+- **PG Diploma in Data Science (Data Engineering)** - IIIT Bangalore, India *(CGPA: 3.81/4, 2022)*  
+- **B.Tech in Computer Science & Engineering** - Institute of Technical Education & Research, Bhubaneswar *(CGPA: 9.11/10, 2014)*  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🏅 Rising Star Award — FY 2024–25  
-- 🌟 Star Performer — FY 2015–16 & FY 2016–17  
-- 🥇 Winner — Appfest 2012 & Appathon 2013  
-- 🎯 Chief Coordinator — Microsoft India Appfest 2013 (350+ participants)  
+- 🏅 Rising Star Award - FY 2024-25  
+- 🌟 Star Performer - FY 2015-16 & FY 2016-17  
+- 🥇 Winner - Appfest 2012 & Appathon 2013  
+- 🎯 Chief Coordinator - Microsoft India Appfest 2013 (350+ participants)  
 
 ---
 
@@ -119,5 +119,5 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
   📞 <strong>+91-8895-291-619</strong><br>
   <a href="mailto:rohitpatnaik27@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://linkedin.com/in/rohit-patnaik"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/rohit-patnaik"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
+  <a href="https://github.com/RohitPatnaik"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 </p>
