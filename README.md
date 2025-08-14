@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me  
 
-I’m a **Senior Java & Angular Full-Stack Developer** with 10+ years of experience delivering scalable, high-performance applications in **logistics, healthcare, supply chain, and education**.  
+I am a **Senior Java & Angular Full-Stack Developer** with 10+ years of experience delivering scalable, high-performance applications in **logistics, healthcare, supply chain, and education**.  
 Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Boot, Angular, Microservices, AWS**, and **database optimization**, with a proven track record of leading teams and delivering impactful solutions.  
 
 <details>
