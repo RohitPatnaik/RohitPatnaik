@@ -43,6 +43,7 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Ionic%20Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white">
 </p>
@@ -71,17 +72,17 @@ Currently a **Team Lead** at Rodion Solutions, I specialize in **Java, Spring Bo
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚚 **Petroleum Dispatch Management System** | Optimized petroleum delivery with real-time tracking, OCR automation & multi-hub synchronization. | Java, Spring Boot, Angular, Python, MySQL, MariaDB, AWS |
+| 🚚 **Petroleum Dispatch Management System** | Optimized petroleum delivery with real-time tracking, OCR automation & multi-hub synchronization. | Java, Spring Boot, Angular, Python, MySQL, MariaDB, AWS, Ionic Framework, Capacitor, Cordova |
 | ⚙️ **CPQ & PLM SaaS Platform** | Integrated CPQ & PLM with ERP/CRM systems like Salesforce & SAP, improving performance by ~30%. | Java, Spring Boot, Angular, Kafka, AWS |
-| 🏥 **Joint Effort for Elimination of Tuberculosis** | APIs & dashboards to standardize TB diagnosis & treatment nationwide. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
-| 💊 **Drug Distribution Management System** | National supply chain for ARV drugs & HIV kits; improved delivery accuracy and reduced stockouts. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
+| 🏥 **Joint Effort for Elimination of Tuberculosis** | APIs & dashboards to standardize TB diagnosis & treatment nationwide. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ, Cordova |
+| 💊 **Drug Distribution Management System** | National supply chain for ARV drugs & HIV kits; improved delivery accuracy and reduced stockouts. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ, Cordova |
 | 👶 **Saving Lives Spreading Smiles** | Real-time monitoring for maternal & newborn health across national/provincial levels (PNG). | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
 | 🌍 **Sustainable Development Goals** | Real-time dashboards/APIs tracking 200+ UN SDG indicators across 13 districts. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
 | 🏥 **ADARSH** | RMNCH+A health monitoring (e-MITRA) with multi-source data integration & 200+ indicators. | Java, Spring Boot, Angular, PostgreSQL, RabbitMQ |
 | 🍼 **Lactation QI** | Web & mobile apps for lactation support and quality indicators across hospitals (Singapore). | Java, Spring Boot, Angular, PostgreSQL, Ionic Cordova |
 | 🏫 **Prashikhyak** | TTI platform for HR, infrastructure & academic data; role-based access, attendance & reporting. | Java, Spring Boot, Hibernate, JPA, Angular, PostgreSQL, RabbitMQ, Ionic Capacitor |
 | 💉 **Vaccine Logistics Management System (VLMS)** | Streamlined vaccine purchasing, distribution & redistribution with real-time inventory control. | Java, Spring MVC, Hibernate, JPA, Angular, SQL Server, Ionic Cordova |
-| 🧊 **Effective Vaccine Management (EVM)** | Improved vaccine & cold chain management; dashboards with maps/charts for KPIs. | Java, Spring MVC, Hibernate, JPA, AngularJS, SQL Server, D3.js |
+| 🧊 **Effective Vaccine Management (EVM)** | Improved vaccine & cold chain management; dashboards with maps/charts for KPIs. | Java, Spring MVC, Hibernate, JPA, AngularJS, SQL Server, D3.js, Native Android |
 
 ---
 
